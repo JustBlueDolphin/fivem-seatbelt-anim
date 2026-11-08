@@ -6,6 +6,8 @@ Standalone client resource with four custom clips: buckle/unbuckle for left- and
 
 [Watch the four animations](previews/seatbelt-preview.mp4)
 
+Version 0.1.1 corrects the sharply folded wrist in all four gestures. The palm follows the forearm during the reach, then blends back to the original steering-wheel grip. Authoring checks verify wrist alignment during contact and smooth wrist rotations between frames; actual FiveM playback remains unverified.
+
 ## Install
 
 Copy the complete `seatbelt_anim` folder into your server resources and add:
