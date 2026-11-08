@@ -6,7 +6,7 @@ Standalone client resource with four custom clips: buckle/unbuckle for left- and
 
 [Watch the four animations](previews/seatbelt-preview.mp4)
 
-Version 0.1.1 corrects the sharply folded wrist in all four gestures. The palm follows the forearm during the reach, then blends back to the original steering-wheel grip. Authoring checks verify wrist alignment during contact and smooth wrist rotations between frames; actual FiveM playback remains unverified.
+Version 0.1.2 adjusts the elbow near the buckle slot on both seating sides. The elbow lowers beside the torso during insertion/release and blends back toward the wheel; the wrist target sits above the slot instead of burying the hand in the seat. It retains the wrist alignment correction from 0.1.1. Authoring checks verify elbow continuity, wrist alignment during contact and smooth wrist rotations between frames; actual FiveM playback remains unverified.
 
 ## Install
 
